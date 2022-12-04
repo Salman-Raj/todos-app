@@ -5,6 +5,21 @@
     height: 100vh;
 }
 
+@media only screen and (orientation:portrait) {
+    .todos-bg-container {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        font-size: 24px;
+    }
+
+}
+
+
+
+
+
+
+
 .todos-heading {
     text-align: center;
     font-family: "Roboto";
