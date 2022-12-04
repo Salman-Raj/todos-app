@@ -7,11 +7,20 @@
 
 @media only screen and (orientation:portrait) {
     .todos-bg-container {
-        padding-top: 25px;
-        padding-bottom: 25px;
-        font-size: 24px;
+        padding-top: 250px;
+        padding-bottom:35px;
+        font-size: 36px;
     }
-
+   .todos-heading{
+       font-size:36px;
+       font-weight:900;
+   }
+    .todo-items-heading{
+        padding-bottom:10px;
+    }
+    .button{
+        padding-top:20px;
+    }
 }
 
 
